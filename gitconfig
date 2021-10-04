@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = swetha.ps12@gmail.com
+	name = swetha pattanshetty shivakumar
